@@ -12,4 +12,5 @@ def game():
     print(f'Good job! you guessed the number {secret_number} correctly!')
 
 
+print('Welcome!')
 game()

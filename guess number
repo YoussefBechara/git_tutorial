@@ -12,5 +12,8 @@ def game():
     print(f'Good job! you guessed the number {secret_number} correctly!')
 
 
+print('haha')
+
+
 print('Welcome!')
 game()
